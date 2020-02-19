@@ -1,0 +1,7 @@
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\bin\Debug\ConsoleApp9.exe.config
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\bin\Debug\ConsoleApp9.exe
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\bin\Debug\ConsoleApp9.pdb
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\obj\Debug\MagicSquareMachine.csprojAssemblyReference.cache
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\obj\Debug\MagicSquareMachine.csproj.CoreCompileInputs.cache
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\obj\Debug\ConsoleApp9.exe
+D:\Programming\Intro to Programming\Code\MagicSquareMachine\MagicSquareMachine\obj\Debug\ConsoleApp9.pdb
